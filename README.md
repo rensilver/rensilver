@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div style="align: center">
+<div style="display: flex">
     <img  height="220" width="370" align="center" alt="Renato" src="https://github.com/rensilver/image-repo-github/blob/main/coderren.gif">
 </div>
 <div>
