@@ -1,5 +1,5 @@
-#### Hi there 👋
-#### I'm a tech enthusiast always looking to improve my skills and share knowledge. Degree in Information Systems.
+### Hi there 👋
+### I'm a tech enthusiast always looking to improve my skills and share knowledge. Degree in Information Systems.
 
 <p align="center">
     <a href="https://github.com/rensilver">
