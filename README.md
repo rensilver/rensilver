@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm a software developer and tech enthusiast, always looking to improve my skills and share knowledge. Degree in Information Systems.
+### Welcome to my profile! I'm a software developer and tech enthusiast. Hope some of my code can be useful to you! ^_^
 
 <p align="center">
     <a href="https://github.com/rensilver">
