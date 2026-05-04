@@ -1,6 +1,6 @@
 ## 👨‍💻 Sobre mim
 
-Sou Software Engineer com +9 anos de experiência em desenvolvimento backend, cloud e arquitetura de sistemas distribuídos. Minha trajetória inclui atuação com APIs REST, microsserviços e liderança técnica, sempre focado em construir soluções escaláveis e resilientes.
+Software Engineer com +9 anos de experiência em desenvolvimento backend, cloud e arquitetura de sistemas distribuídos. Minha trajetória inclui atuação com APIs REST, microsserviços e liderança técnica, sempre focado em construir soluções escaláveis e resilientes.
 
 Atualmente estou direcionando minha carreira para Machine Learning Engineering, aplicando minha base sólida em engenharia de software para desenvolver e colocar modelos de Machine Learning em produção.
 
