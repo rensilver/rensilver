@@ -23,9 +23,6 @@ Estou focado em evoluir em:
 
 💡 **Objetivo:** Construir sistemas de Machine Learning robustos, escaláveis e prontos para produção, unindo software engineering, cloud e dados.
 
-<p align="center">
-    <img  height="220" width="370" align="center" alt="Renato" src="https://github.com/rensilver/image-repo-github/blob/main/coderren.gif">
-</p>
 <br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
