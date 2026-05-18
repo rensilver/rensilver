@@ -1,27 +1,31 @@
 ## 👨‍💻 Sobre mim
 
-Software Engineer com +9 anos de experiência em desenvolvimento backend, cloud e arquitetura de sistemas distribuídos. Minha trajetória inclui atuação com APIs REST, microsserviços e liderança técnica, sempre focado em construir soluções escaláveis e resilientes.
+Engenheiro de Software com mais de 9 anos no mercado de tecnologia. Com atuação em desenvolvimento backend, cloud computing e arquitetura de sistemas distribuídos. Ao longo da minha carreira, atuei na construção de APIs REST, microsserviços e aplicações escaláveis, sempre com foco em performance, resiliência e entrega de valor para o negócio.
 
-Atualmente estou direcionando minha carreira para Machine Learning Engineering, aplicando minha base sólida em engenharia de software para desenvolver e colocar modelos de Machine Learning em produção.
+Atualmente, estou em transição para a área de Ciência de Dados e Machine Learning, unindo minha sólida experiência em engenharia de software ao desenvolvimento de soluções orientadas a dados e modelos preditivos.
 
-Tenho experiência com:
-- **Backend:** Java (Spring), Python e JavaScript
-- **Arquitetura:** Microsserviços, APIs REST e sistemas distribuídos
-- **Cloud & DevOps:** AWS, Azure, AWS Lambda, Kubernetes e CI/CD
-- **Dados:** Modelagem, SQL (Oracle, SQL Server) e MongoDB
+## 🚀 Tecnologias e Ferramentas 
+- **Linguagens:** Python, Java, JavaScript e SQL
+- **Backend:** Spring Boot, APIs REST e Microsserviços
+- **Cloud & DevOps:** AWS, Azure, Kubernetes e CI/CD
+- **Banco de Dados:** Oracle, SQL Server e MongoDB
+- **Dados & Machine Learning:** Pandas, Scikit-learn, PySpark, Machine Learning e Análise de Dados
 
-Estou focado em evoluir em:
-- MLOps (deploy, monitoramento e versionamento de modelos)
-- Pipelines de dados e treinamento
-- Sistemas de ML escaláveis em cloud
-
+## 🎯 Foco Atual 
+- Machine Learning e Análise Preditiva
+- Tratamento e Preparação de Dados
+- Engenharia de Features
+- Construção de Pipelines de Dados
+- MLOps e Deploy de Modelos
+- Sistemas Escaláveis de Machine Learning em Cloud
+  
 ☁️ **AWS Certified Developer – Associate**  
-🎓 **Sistemas de Informação | Estudante de Ciência de Dados**  
+🎓 **Graduado em Sistemas de Informação | Estudante de Ciência de Dados**  
 🌎 **Inglês avançado (EFSET C1)**
 
 ---
 
-💡 **Objetivo:** Construir sistemas de Machine Learning robustos, escaláveis e prontos para produção, unindo software engineering, cloud e dados.
+💡 **Objetivo:** Meu objetivo é atuar como Cientista de Dados ou Machine Learning Engineer, desenvolvendo soluções inteligentes e escaláveis que conectem engenharia de software, cloud computing e dados para gerar impacto real em produtos e negócios.
 
 <br>
 <p align="center">
