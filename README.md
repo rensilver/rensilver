@@ -1,6 +1,6 @@
 ## 👨‍💻 Sobre mim
 
-Engenheiro de Software com mais de 9 anos no mercado de tecnologia. Com atuação em desenvolvimento backend, cloud computing e arquitetura de sistemas distribuídos. Ao longo da minha carreira, atuei na construção de APIs REST, microsserviços e aplicações escaláveis, sempre com foco em performance, resiliência e entrega de valor para o negócio.
+Profissional com mais de 9 anos no mercado de tecnologia. Já atuei em desenvolvimento backend, cloud computing, arquitetura de sistemas distribuídos e análise de dados, com foco em performance, resiliência e entrega de valor para o negócio.
 
 Atualmente, estou em transição para a área de Ciência de Dados e Machine Learning, unindo minha sólida experiência em engenharia de software ao desenvolvimento de soluções orientadas a dados e modelos preditivos.
 
