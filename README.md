@@ -20,7 +20,7 @@ Atualmente, estou em transição para a área de Ciência de Dados e Machine Lea
 - Sistemas Escaláveis de Machine Learning em Cloud
   
 ☁️ **AWS Certified Developer – Associate**  
-🎓 **Graduado em Sistemas de Informação | Estudante de Ciência de Dados**  
+🎓 **Graduado em Sistemas de Informação | Cursando Tecnologia em Ciência de Dados**  
 🌎 **Inglês avançado (EFSET C1)**
 
 ---
