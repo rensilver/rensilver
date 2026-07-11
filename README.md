@@ -9,7 +9,7 @@ Atualmente, estou em transição para a área de Ciência de Dados e Machine Lea
 - **Backend:** Spring Boot, APIs REST e Microsserviços
 - **Cloud & DevOps:** AWS, Azure, Kubernetes e CI/CD
 - **Banco de Dados:** Oracle, SQL Server e MongoDB
-- **Dados & Machine Learning:** Pandas, Scikit-learn, PySpark, Machine Learning e Análise de Dados
+- **Dados & Machine Learning:** ETL, Cleaning, EDA, Pandas, Scikit-learn, Machine Learning
 
 ## 🎯 Foco Atual 
 - Machine Learning e Análise Preditiva
