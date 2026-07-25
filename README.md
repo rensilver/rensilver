@@ -1,31 +1,32 @@
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-Profissional com experiência em desenvolvimento backend, cloud computing, arquitetura de sistemas distribuídos e análise de dados, com foco em performance, resiliência e entrega de valor para o negócio.
+Professional with experience in backend development, cloud computing, distributed systems architecture, and data analysis, with a focus on performance, resilience, and delivering business value.
 
-Atualmente, estou em transição para a área de Ciência de Dados e Machine Learning, unindo minha sólida experiência em engenharia de software ao desenvolvimento de soluções orientadas a dados e modelos preditivos.
+Currently transitioning into Data Science and Machine Learning, combining my solid software engineering background with the development of data-driven solutions and predictive models.
 
-## 🚀 Tecnologias e Ferramentas 
-- **Linguagens:** Python, Java, JavaScript e SQL
-- **Backend:** Spring Boot, APIs REST e Microsserviços
-- **Cloud & DevOps:** AWS, Azure, Kubernetes e CI/CD
-- **Banco de Dados:** MySQL, Oracle, SQL Server e MongoDB
-- **Dados & Machine Learning:** ETL, Cleaning, EDA, Pandas, Scikit-learn, Machine Learning
+## 🚀 Technologies & Tools
+- **Languages:** Python, Java, JavaScript, and SQL
+- **Backend:** Spring Boot, REST APIs, and Microservices
+- **Cloud & DevOps:** AWS, Azure, Kubernetes, and CI/CD
+- **Databases:** MySQL, Oracle, SQL Server, and MongoDB
+- **Data & Machine Learning:** ETL, Cleaning, EDA, Pandas, Scikit-learn, Machine Learning
 
-## 🎯 Foco Atual 
-- Machine Learning e Análise Preditiva
-- Tratamento e Preparação de Dados
-- Engenharia de Features
-- Construção de Pipelines de Dados
-- MLOps e Deploy de Modelos
-- Sistemas Escaláveis de Machine Learning em Cloud
+## 🎯 Current Focus 
+- Machine Learning and Predictive Analytics
+- Data Preparation and Processing
+- Feature Engineering
+- Data Pipeline Development
+- MLOps and Model Deployment
+- Scalable Machine Learning Systems in the Cloud
+- LLMs, LangChain, GenAI, Agentic AI and related studies about AI Engineering
   
-☁️ **AWS Certified Developer – Associate**  
-🎓 **Graduado em Sistemas de Informação | Cursando Tecnologia em Ciência de Dados**  
-🌎 **Inglês avançado (EFSET C1)**
+☁️ AWS Certified Developer – Associate
+🎓 Degree in Information Systems | Currently pursuing a degree in Data Science Technology
+🌎 Advanced English (EFSET C1)
 
 ---
 
-💡 **Objetivo:** Meu objetivo é atuar como Cientista de Dados ou Machine Learning Engineer, desenvolvendo soluções inteligentes e escaláveis que conectem engenharia de software, cloud computing e dados para gerar impacto real em produtos e negócios.
+💡 **Goal:** My goal is to work as a Data Scientist or Machine Learning Engineer, developing intelligent and scalable solutions that connect software engineering, cloud computing, and data to generate real impact on products and businesses.
 
 <br>
 <p align="center">
