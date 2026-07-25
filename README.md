@@ -21,7 +21,7 @@ Currently transitioning into Data Science and Machine Learning, combining my sol
 - LLMs, LangChain, GenAI, Agentic AI and related studies about AI Engineering
   
 ☁️ AWS Certified Developer – Associate
-🎓 Degree in Information Systems | Currently pursuing a degree in Data Science Technology
+🎓 Bachelor's Degree in Information Systems | Currently pursuing a degree in Data Science Technology
 🌎 Advanced English (EFSET C1)
 
 ---
