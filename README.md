@@ -1,8 +1,8 @@
 ## 👨‍💻 About Me
 
-Professional with experience in backend development, cloud computing, distributed systems architecture, and data analysis, with a focus on performance, resilience, and delivering business value.
+Software Engineer with experience in backend development, cloud computing, distributed systems architecture, and data analysis, with a focus on performance, resilience, and delivering business value.
 
-Currently transitioning into Data Science and Machine Learning, combining my solid software engineering background with the development of data-driven solutions and predictive models.
+Currently transitioning into Machine Learning and AI Engineering, combining my solid software engineering background with the development of data-driven solutions and predictive models.
 
 ## 🚀 Technologies & Tools
 - **Languages:** Python, Java, JavaScript, and SQL
@@ -12,21 +12,19 @@ Currently transitioning into Data Science and Machine Learning, combining my sol
 - **Data & Machine Learning:** ETL, Cleaning, EDA, Pandas, Scikit-learn, Machine Learning
 
 ## 🎯 Current Focus 
-- Machine Learning and Predictive Analytics
-- Data Preparation and Processing
+- Software Engineering
+- Machine Learning and AI Engineering
+- EDA and Preprocessing
 - Feature Engineering
+- Classification and Regression Algorithms
+- AI Agents, LLMs, LangChain, GenAI
 - Data Pipeline Development
 - MLOps and Model Deployment
 - Scalable Machine Learning Systems in the Cloud
-- LLMs, LangChain, GenAI, Agentic AI and related studies about AI Engineering
   
 ☁️ AWS Certified Developer – Associate
 🎓 Bachelor's Degree in Information Systems | Currently pursuing a degree in Data Science Technology
 🌎 Advanced English (EFSET C1)
-
----
-
-💡 **Goal:** My goal is to work as a Data Scientist or Machine Learning Engineer, developing intelligent and scalable solutions that connect software engineering, cloud computing, and data to generate real impact on products and businesses.
 
 <br>
 <p align="center">
