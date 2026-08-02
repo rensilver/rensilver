@@ -10,6 +10,7 @@ Currently transitioning into Machine Learning and AI Engineering, combining my s
 - **Cloud & DevOps:** AWS, Azure, Kubernetes, and CI/CD
 - **Databases:** MySQL, Oracle, SQL Server, and MongoDB
 - **Data & Machine Learning:** ETL, Cleaning, EDA, Pandas, Scikit-learn, Machine Learning
+- **AI Engineering:** Deep Learning, Neural Networks, LLMs, AI Agents, LangChain, RAG, Context Engineering
 
 ## 🎯 Current Focus 
 - Software Engineering
