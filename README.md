@@ -1,27 +1,30 @@
 ## 👨‍💻 About Me
 
-Software Engineer with experience in backend development, cloud computing, distributed systems architecture, and data analysis, with a focus on performance, resilience, and delivering business value.
+Backend Software Engineer with experience in backend development and cloud-based solutions. My background includes building APIs, distributed systems, microservices, integrations, databases, and cloud services using technologies such as Java, Spring Boot, Python, AWS, Azure, Docker, and Kubernetes.
 
-Currently transitioning into Machine Learning and AI Engineering, combining my solid software engineering background with the development of data-driven solutions and predictive models.
+Currently, I am expanding my expertise in AI Engineering, developing hands-on projects involving Generative AI agents, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Vector Databases, applied to real-world artificial intelligence solutions.
+
+My goal is to combine my experience in software engineering and cloud computing with modern Generative AI techniques to build scalable, reliable, and business-driven solutions that deliver measurable value.
+
 
 ## 🚀 Technologies & Tools
 - **Languages:** Python, Java, JavaScript, and SQL
 - **Backend:** Spring Boot, REST APIs, and Microservices
 - **Cloud & DevOps:** AWS, Azure, Kubernetes, and CI/CD
 - **Databases:** MySQL, Oracle, SQL Server, and MongoDB
-- **Data & Machine Learning:** ETL, Cleaning, EDA, Pandas, Scikit-learn, Machine Learning
+- **Data & Machine Learning:** EDA, Pandas, Scikit-learn, Numpy, Machine Learning regression and classification algorithms
 - **AI Engineering:** Deep Learning, Neural Networks, LLMs, AI Agents, LangChain, RAG, Context Engineering
 
 ## 🎯 Current Focus 
 - Software Engineering
-- Machine Learning and AI Engineering
-- EDA and Preprocessing
-- Feature Engineering
-- Classification and Regression Algorithms
-- AI Agents, LLMs, LangChain, GenAI
-- Data Pipeline Development
-- MLOps and Model Deployment
-- Scalable Machine Learning Systems in the Cloud
+- AI Engineering
+- Spring AI
+- LLMs
+- RAG
+- Embeddings
+- Vector Databases
+- AI Agents
+- LangChain and LangGraph
   
 ☁️ AWS Certified Developer – Associate
 🎓 Bachelor's Degree in Information Systems | Currently pursuing a degree in Data Science Technology
