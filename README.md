@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-Backend Software Engineer with experience in backend development and cloud-based solutions. My background includes building APIs, distributed systems, microservices, integrations, databases, and cloud services using technologies such as Java, Spring Boot, Python, AWS, Azure, Docker, and Kubernetes.
+I'm a professional with experience in backend development and cloud-based solutions. My background includes building APIs, distributed systems, microservices, integrations, databases, and cloud services using technologies such as Java, Spring Boot, Python, AWS, Azure, Docker, and Kubernetes.
 
 Currently, I am expanding my expertise in AI Engineering, developing hands-on projects involving Generative AI agents, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Vector Databases, applied to real-world artificial intelligence solutions.
 
