@@ -1,33 +1,36 @@
 ## 👨‍💻 About Me
 
-AI Engineer. My background includes building APIs, distributed systems, microservices, integrations, databases, and cloud services using technologies such as Java, Spring Boot, Python, AWS, Azure, Docker, and Kubernetes.
+AI Engineer | Machine Learning Engineer | Cientista de Dados<br>
+ML Algorithms • Java/Spring AI • Python/LangChain • LLM & RAG • Cloud (AWS/Azure)
 
-Currently, I am expanding my expertise in AI Engineering, developing hands-on projects involving Generative AI agents, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Vector Databases, applied to real-world artificial intelligence solutions.
+My background includes building APIs, distributed systems, microservices, integrations, databases, and cloud services using technologies such as Java, Spring Boot, Python, AWS, Azure, Docker, and Kubernetes.
+
+Currently, I am expanding my expertise in Machine Learning and AI Engineering, developing hands-on projects involving predictive models, Generative AI agents, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Vector Databases, applied to real-world artificial intelligence solutions.
 
 My goal is to combine my experience in software engineering and cloud computing with modern Generative AI techniques to build scalable, reliable, and business-driven solutions that deliver measurable value.
 
 
 ## 🚀 Technologies & Tools
 - **Languages:** Python, Java, JavaScript, and SQL
-- **Backend:** Spring Boot, REST APIs, and Microservices
+- **Backend:** Spring Boot, Flask, FastAPI, REST APIs, and Microservices
 - **Cloud & DevOps:** AWS, Azure, Kubernetes, and CI/CD
 - **Databases:** MySQL, Oracle, SQL Server, and MongoDB
-- **Data & Machine Learning:** EDA, Pandas, Scikit-learn, Numpy, Machine Learning regression and classification algorithms
+- **Data Science & Machine Learning:** EDA, Pandas, Scikit-learn, Numpy, Matplotlib, Machine Learning regression and classification algorithms
 - **AI Engineering:** Deep Learning, Neural Networks, LLMs, AI Agents, LangChain, RAG, Context Engineering
 
 ## 🎯 Current Focus 
-- Software Engineering
 - AI Engineering
-- Spring AI
+- Machine Learning
 - LLMs
 - RAG
 - Embeddings
 - Vector Databases
 - AI Agents
 - LangChain and LangGraph
+- Spring AI
   
-☁️ AWS Certified Developer – Associate
-🎓 Bachelor's Degree in Information Systems | Currently pursuing a degree in Data Science Technology
+☁️ AWS Certified Developer – Associate<br>
+🎓 Bachelor's Degree in Information Systems | Currently pursuing a degree in Data Science Technology<br>
 🌎 Advanced English (EFSET C1)
 
 <br>
