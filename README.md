@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-AI Engineer | Machine Learning Engineer | Cientista de Dados<br>
+AI Engineer | Machine Learning Engineer | Data Scientist<br>
 ML Algorithms • Java/Spring AI • Python/LangChain • LLM & RAG • Cloud (AWS/Azure)
 
 My background includes building APIs, distributed systems, microservices, integrations, databases, and cloud services using technologies such as Java, Spring Boot, Python, AWS, Azure, Docker, and Kubernetes.
