@@ -1,13 +1,6 @@
 ## 👨‍💻 About Me
 
-AI Engineer | Machine Learning Engineer | Data Scientist<br>
-ML Algorithms • Java/Spring AI • Python/LangChain • LLM & RAG • Cloud (AWS/Azure)
-
-My background includes building APIs, distributed systems, microservices, integrations, databases, and cloud services using technologies such as Java, Spring Boot, Python, AWS, Azure, Docker, and Kubernetes.
-
-Currently, I am expanding my expertise in Machine Learning and AI Engineering, developing hands-on projects involving predictive models, Generative AI agents, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Vector Databases, applied to real-world artificial intelligence solutions.
-
-My goal is to combine my experience in software engineering and cloud computing with modern Generative AI techniques to build scalable, reliable, and business-driven solutions that deliver measurable value.
+AI Engineer with experience in backend engineering, distributed systems, and cloud (AWS, Azure), currently specializing in Generative AI and Machine Learning. Practical experience in designing RAG (Retrieval-Augmented Generation) systems, with retrieval pipelines, embeddings, and vector databases (pgvector), as well as developing intelligent agents with tool-calling and using LLMs (Llama 3.2, GPT, Hugging Face, Ollama). Solid foundation in production software engineering (Java, Python, Spring Boot, Spring AI, REST APIs, testing, CI/CD) and in deploying cloud solutions, applied to building scalable, reliable, and business-oriented AI systems.
 
 
 ## 🚀 Technologies & Tools
