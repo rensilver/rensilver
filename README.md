@@ -23,7 +23,7 @@ AI Engineer with experience in backend engineering, distributed systems, and clo
 - Spring AI
   
 ☁️ AWS Certified Developer – Associate<br>
-🎓 Bachelor's Degree in Information Systems | Currently pursuing a degree in Data Science Technology<br>
+🎓 Bachelor's Degree in Information Systems | Currently pursuing a Postgraduate Specialization in Artificial Intelligence<br>
 🌎 Advanced English (EFSET C1)
 
 <br>
