@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-AI Engineer with practical experience in developing solutions that integrate advanced Generative AI models with computer systems. Develops AI applications using RAG, LLMs, and Machine Learning and Deep Learning models applied to real-world problems. Practical experience in designing RAG (Retrieval-Augmented Generation) systems, with retrieval pipelines, embeddings, and vector databases (pgvector), as well as developing intelligent agents with tool-calling and using LLMs (Llama 3.2, GPT, Hugging Face, Ollama). Solid foundation in production software engineering (Java, Python, Spring Boot, Spring AI, REST APIs, testing, CI/CD) and in deploying cloud solutions, applied to building scalable, reliable, and business-oriented AI systems.
+ML / AI Engineer with practical experience in developing solutions that integrate advanced Generative AI models with computer systems. Develops AI applications using RAG, LLMs, and Machine Learning and Deep Learning models applied to real-world problems. Practical experience in designing RAG (Retrieval-Augmented Generation) systems, with retrieval pipelines, embeddings, and vector databases (pgvector), as well as developing intelligent agents with tool-calling and using LLMs (Llama 3.2, GPT, Hugging Face, Ollama). Solid foundation in production software engineering (Java, Python, Spring Boot, Spring AI, REST APIs, testing, CI/CD) and in deploying cloud solutions, applied to building scalable, reliable, and business-oriented AI systems.
 
 
 ## 🚀 Technologies & Tools
@@ -14,6 +14,7 @@ AI Engineer with practical experience in developing solutions that integrate adv
 ## 🎯 Current Focus 
 - AI Engineering
 - Machine Learning
+- Deep Learning
 - LLMs
 - RAG
 - Embeddings
