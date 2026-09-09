@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-ML / AI Engineer with practical experience in developing solutions that integrate advanced Generative AI models with computer systems. Develops AI applications using RAG, LLMs, and Machine Learning and Deep Learning models applied to real-world problems. Practical experience in designing RAG (Retrieval-Augmented Generation) systems, with retrieval pipelines, embeddings, and vector databases (pgvector), as well as developing intelligent agents with tool-calling and using LLMs (Llama 3.2, GPT, Hugging Face, Ollama). Solid foundation in production software engineering (Java, Python, Spring Boot, Spring AI, REST APIs, testing, CI/CD) and in deploying cloud solutions, applied to building scalable, reliable, and business-oriented AI systems.
+AI Engineer with practical experience in developing solutions that integrate advanced Generative AI models with computer systems. Develops AI applications using RAG, LLMs, and Machine Learning and Deep Learning models applied to real-world problems. Practical experience in designing RAG (Retrieval-Augmented Generation) systems, with retrieval pipelines, embeddings, and vector databases (pgvector), as well as developing intelligent agents with tool-calling and using LLMs (Llama 3.2, GPT, Hugging Face, Ollama). Solid foundation in production software engineering (Java, Python, Spring Boot, Spring AI, REST APIs, testing, CI/CD) and in deploying cloud solutions, applied to building scalable, reliable, and business-oriented AI systems.
 
 
 ## 🚀 Technologies & Tools
@@ -9,12 +9,10 @@ ML / AI Engineer with practical experience in developing solutions that integrat
 - **Cloud & DevOps:** AWS, Azure, Kubernetes, and CI/CD
 - **Databases:** MySQL, Oracle, SQL Server, and MongoDB
 - **Data Science & Machine Learning:** EDA, Pandas, Scikit-learn, Numpy, Matplotlib, Machine Learning regression and classification algorithms
-- **AI Engineering:** Deep Learning, Neural Networks, LLMs, AI Agents, LangChain, RAG, Context Engineering
+- **AI Engineering:** Deep Learning, Neural Networks, LLMs, AI Agents, LangChain & LangGraph, RAG, Context Engineering
 
 ## 🎯 Current Focus 
 - AI Engineering
-- Machine Learning
-- Deep Learning
 - LLMs
 - RAG
 - Embeddings
@@ -22,6 +20,8 @@ ML / AI Engineer with practical experience in developing solutions that integrat
 - AI Agents
 - LangChain and LangGraph
 - Spring AI
+- Machine Learning
+- Deep Learning
   
 ☁️ AWS Certified Developer – Associate<br>
 🎓 Bachelor's Degree in Information Systems | Currently pursuing a Postgraduate Specialization in Artificial Intelligence<br>
