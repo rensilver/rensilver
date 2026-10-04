@@ -1,3 +1,5 @@
+## About Me
+
 AI Engineer with a strong **backend engineering** background, building production-oriented AI applications with **Python, FastAPI, LangChain, and LangGraph**.
 
 Hands-on experience with **Agentic AI, Multi-Agent Systems, RAG, tool calling, conversational memory, document ingestion, embeddings, and semantic/hybrid retrieval** using **PostgreSQL/pgvector and ChromaDB**.
@@ -23,7 +25,6 @@ I also use **Claude Code and Codex for agentic software development**, orchestra
 - AWS Certified Developer – Associate
 - Advanced English — C1
 
-<br>
 <h3 align="center">AI Engineering & Agentic Systems</h3>
 
 <p align="center">
