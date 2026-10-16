@@ -1,29 +1,25 @@
-## About Me
+Hi, I'm Renato Silveira 👋
 
-AI Engineer with a strong **backend engineering** background, building production-oriented AI applications with **Python, FastAPI, LangChain, and LangGraph**.
+AI Engineer with a strong background in backend development and technical leadership. My experience includes working at IBM on projects for Itaú Unibanco and MRS Logística, as well as projects for B3 and Sensus (US) through other companies.
 
-Hands-on experience with **Agentic AI, Multi-Agent Systems, RAG, tool calling, conversational memory, document ingestion, embeddings, and semantic/hybrid retrieval** using **PostgreSQL/pgvector and ChromaDB**.
+I build Generative AI applications, multi-agent systems, and RAG pipelines using Python, FastAPI, LangChain, and LangGraph, combining software engineering practices with LLM integration, tool calling, and conversational memory.
 
-I also use **Claude Code and Codex for agentic software development**, orchestrating models and agents for planning, architecture, implementation, debugging, testing, refactoring, and complex engineering tasks.
+My projects include FoodWiseAI, developed as the capstone for the IBM RAG and Agentic AI Professional Certificate, Incident Response Copilot, and document assistants powered by RAG.
 
-## Core Stack
+I focus on reliability through evaluation, observability with Langfuse, automated testing, and CI/CD. I also use Claude Code and Codex for agent-assisted development, supported by technical review and validation.
 
-- **AI & Agents:** LangChain, LangGraph, LlamaIndex, Spring AI, MCP, RAG, Multi-Agent Systems
-- **Backend:** Python, FastAPI, Java, Spring Boot, REST APIs, Microservices
-- **LLMs:** GPT, Claude, Llama, Qwen, Hugging Face, Ollama
-- **Data & ML:** pandas, NumPy, scikit-learn, PyTorch, TensorFlow, Keras
-- **Databases:** PostgreSQL, pgvector, ChromaDB, MySQL, MongoDB
-- **Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, CI/CD, GitHub Actions, Jenkins
-- **AI Engineering:** LLM Evaluation, LLM-as-a-Judge, Observability, Automated Testing
+🛠️ Core stack: Python · FastAPI · Java · Spring Boot · LangChain · LangGraph · PostgreSQL/pgvector · ChromaDB · Docker · AWS · Azure
 
-## Education & Certifications
+🎯 Interests: Agentic AI · Multi-Agent Systems · RAG · MCP · Backend Engineering
 
-- Postgraduate Program in Artificial Intelligence — Universidade Anhembi Morumbi
+🎓 Education & Certifications:
+
+- Postgraduate Program in Artificial Intelligence — Universidade Anhembi Morumbi (in progress, 2026–2027)
 - Bachelor's Degree in Information Systems — Universidade Estácio de Sá
-- IBM Deep Learning with PyTorch, Keras and TensorFlow Professional Certificate
 - IBM RAG and Agentic AI Professional Certificate
-- AWS Certified Developer – Associate
-- Advanced English — C1
+- IBM Deep Learning with PyTorch, Keras and TensorFlow Professional Certificate
+- AWS Certified Developer – Associate (2023–2026)
+- Advanced English — CEFR C1 (EF SET)
 
 <h3 align="center">AI Engineering & Agentic Systems</h3>
 
