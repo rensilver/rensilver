@@ -8,7 +8,6 @@
   <a href="mailto:ren.oliv87@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-333333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Renato"/></a>
 </p>
 
-About me
 I'm a Senior Software Engineer with a background in backend development, systems integration, and technical leadership. My main focus is building and maintaining enterprise applications with Java, Spring Boot, REST APIs, and microservices.
 
 My experience includes working at IBM on projects for Itaú Unibanco and MRS Logística, as well as projects for B3, Sensus in the US, BRK, and Whirlpool through other companies. I've worked on financial systems, application modernization, database queries, cloud deployments, and production troubleshooting.
