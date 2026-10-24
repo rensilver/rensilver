@@ -31,12 +31,22 @@ Backend engineering
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="44" height="44" alt="Python" title="Python"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="44" height="44" alt="FastAPI" title="FastAPI"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="44" height="44" alt="TypeScript" title="TypeScript"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="44" height="44" alt="React" title="React"/>
 </p>
 
 Java 11/17 · Spring Framework · Spring Boot · Maven · REST APIs · Microservices · Python · FastAPI
 Databases and messaging
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL" title="PostgreSQL / pgvector"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="44" height="44" alt="MySQL" title="MySQL"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="44" height="44" alt="Oracle" title="Oracle Database"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="44" height="44" alt="SQL Server" title="Microsoft SQL Server"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="44" height="44" alt="MongoDB" title="MongoDB"/>
 </p>
