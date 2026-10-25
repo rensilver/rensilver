@@ -61,7 +61,7 @@ Databases and messaging
 PostgreSQL/pgvector · Oracle · SQL Server · MongoDB · SQL optimization · Amazon SQS · Apache Kafka (PoC)
 Cloud, containers, and delivery
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="44" alt="AWS" title="Amazon Web Services"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="44" alt="AWS" title="Amazon Web Services"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="44" height="44" alt="Azure" title="Microsoft Azure"/>
   &nbsp;
