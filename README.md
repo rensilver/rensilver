@@ -1,106 +1,50 @@
 <h1 align="center">Hi, I'm Renato Silveira 👋</h1>
+<h3 align="center">Senior Java Backend Developer | Spring Boot | Microservices | Cloud</h3>
 
-<h3 align="center">Senior Backend Engineer | Java &amp; Spring Boot | Microservices &amp; Cloud</h3>
+I build scalable, reliable backend systems with Java and Spring Boot, drawing on enterprise experience in financial services, system integration, and technical leadership.
 
-<p align="center">
-  <a href="https://github.com/rensilver"><img src="https://img.shields.io/badge/GitHub-rensilver-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub profile"/></a>
-  <a href="https://www.linkedin.com/in/rensilveira"><img src="https://img.shields.io/badge/LinkedIn-Renato_Silveira-0A66C2?style=for-the-badge" alt="LinkedIn profile"/></a>
-  <a href="mailto:ren.oliv87@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-333333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Renato"/></a>
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Java_11%2F17%2F21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 11/17/21" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes / AKS" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring AI" />
 </p>
 
-I'm a Senior Backend Engineer with a background in backend development, software architecture, systems integration, and technical leadership. My main focus is building and maintaining enterprise applications with Java, Spring Boot, REST APIs, and microservices.
+## 🏆 Engineering Highlights
 
-My experience includes working at IBM on projects for Itaú Unibanco and MRS Logística, as well as projects for B3, Sensus in the US, BRK, and Whirlpool through other companies. I've worked on financial systems, application modernization, database queries, cloud deployments, and production troubleshooting.
+- **Itaú Unibanco:** Built and maintained three Java/Spring microservices for corporate FX systems; coordinated a critical cross-team delivery.
+- **B3:** Unblocked a Spring Boot 3 migration by identifying misconfigured Maven dependencies.
+- **MRS Logística:** Helped resolve a production performance incident involving AKS pod scaling.
+- **Technical leadership:** Led delivery of two microservices in 4 months instead of 6.
 
-I work closely with business stakeholders, architects, DevOps engineers, frontend developers, and QA teams to turn requirements into maintainable software. My engineering practices include Clean Architecture, SOLID, design patterns, automated testing, code reviews, CI/CD, and observability.
+## 🚀 Featured Projects
 
-I also build applications with Python, FastAPI, and Generative AI, applying my backend experience to RAG pipelines, multi-agent workflows, and integrations with LLMs and external tools.
-Selected engineering outcomes
-- MRS Logística: led backend development and coordinated the delivery of two microservices in four months against an initial six-month estimate, alongside API refactoring and requirements alignment.
-- Production performance: investigated application code, logs, and AKS settings with DevOps and the Tech Lead, identifying disabled pod autoscaling. Adding one pod improved performance, and the client considered the incident resolved by the end of the sprint.
-- Itaú Unibanco: developed and maintained three Java 11/Spring microservices for corporate foreign exchange. During the Tech Lead's leave, coordinated a critical change across squads and implemented the team's service changes, which reached production and received management approval.
-- B3: identified incorrect Maven dependencies that were blocking a Spring Boot 3 migration, reproduced the issue locally, and shared the diagnosis, enabling the team to complete the migration and deploy to production.
-- Technical leadership: maintained sprint deliveries during a period with a two-developer backend team, including a junior developer, earning recognition from the Product Owner and a client IT manager.
-Technology stack
-Backend engineering
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="44" height="44" alt="Java" title="Java"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="44" height="44" alt="Spring" title="Spring Framework / Spring Boot"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="44" height="44" alt="Python" title="Python"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="44" height="44" alt="FastAPI" title="FastAPI"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="44" height="44" alt="TypeScript" title="TypeScript"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="44" height="44" alt="React" title="React"/>
-</p>
+- **AtivaFlow** — Java 21, Spring Boot, PostgreSQL. Asynchronous processing, idempotency, external integrations, testing, and observability.
+- **LilaCred** *(in development)* — Java 21, Spring Boot, Kafka, PostgreSQL. Credit analysis with authentication, analysis, and notification microservices.
+- **AI Knowledge Assistant** — Java 21, Spring AI, pgvector. Secure RAG backend for document search and LLM integration.
 
-Java 11/17 · Spring Framework · Spring Boot · Maven · REST APIs · Microservices · Python · FastAPI
-Databases and messaging
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL" title="PostgreSQL / pgvector"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="44" height="44" alt="MySQL" title="MySQL"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="44" height="44" alt="Oracle" title="Oracle Database"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="44" height="44" alt="SQL Server" title="Microsoft SQL Server"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="44" height="44" alt="MongoDB" title="MongoDB"/>
-</p>
+## 🎓 Education & Certifications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle-SQL-C74634?style=for-the-badge" alt="Oracle SQL"/>
-  <img src="https://img.shields.io/badge/SQL_Server-Database-CC2927?style=for-the-badge" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/Amazon_SQS-Messaging-FF9900?style=for-the-badge" alt="Amazon SQS"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-PoC-231F20?style=for-the-badge" alt="Apache Kafka proof of concept"/>
-</p>
-
-PostgreSQL/pgvector · Oracle · SQL Server · MongoDB · SQL optimization · Amazon SQS · Apache Kafka (PoC)
-Cloud, containers, and delivery
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="44" alt="AWS" title="Amazon Web Services"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="44" height="44" alt="Azure" title="Microsoft Azure"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="44" height="44" alt="Docker" title="Docker / Docker Compose"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="44" height="44" alt="Kubernetes" title="Kubernetes / Azure Kubernetes Service"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="44" height="44" alt="Jenkins" title="Jenkins"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="44" height="44" alt="GitHub Actions" title="GitHub Actions"/>
-</p>
-
-AWS · Azure · Lambda · CloudWatch · Docker · Docker Compose · Kubernetes/AKS · Jenkins · GitHub Actions · CI/CD
-Architecture, quality, and operations
-Clean Architecture · SOLID · Design Patterns · Automated Testing · Code Reviews · API Documentation · Grafana · Splunk · Production Troubleshooting
-Applied AI and development tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring_AI-Java-6DB33F?style=for-the-badge&amp;logo=spring&amp;logoColor=white" alt="Spring AI"/>
-  <img src="https://img.shields.io/badge/LangChain-Integrations-1C3C3C?style=for-the-badge" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LangGraph-Workflows-222222?style=for-the-badge" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/RAG-Document_Retrieval-4A5AB8?style=for-the-badge" alt="Retrieval-Augmented Generation"/>
-</p>
-
-I use Spring AI, LangChain, LangGraph, OpenAI API, and Amazon Bedrock to build document assistants and agent-based applications. Reliability practices include guardrails, evaluation, testing, and observability with Langfuse.
-
-I also use Claude Code and OpenAI Codex for AI-assisted development, supported by Spec-Driven Development (SDD), code review, and validation.
-Selected projects
-- AI Knowledge Assistant — A document assistant backend built with Java, Spring Boot, Spring AI, and PostgreSQL/pgvector, combining retrieval with LLM integration.
-- Aurora Bank Assistant — in development — A financial application with a supervisor and four specialized agents, built with Python, FastAPI, LangGraph, Amazon Bedrock, AWS Lambda, Cognito, DynamoDB, and S3 Vector Store.
-- Incident Response Copilot — An assistant for incident-response workflows, combining API integration, contextual retrieval, and LLMs.
-- FoodWiseAI — An application with six agents orchestrated through LangGraph, hybrid RAG, and external tools. Developed from the capstone for the IBM RAG and Agentic AI Professional Certificate.
-Education and certifications
-- Postgraduate Program in Cloud-Native Architecture and Platform Engineering — Universidade Anhembi Morumbi, in progress (August 2026 – August 2027).
-- Bachelor's Degree in Information Systems — Universidade Estácio de Sá, completed in 2019.
-- AWS Certified Developer – Associate — May 2023 – May 2026.
-- IBM RAG and Agentic AI Professional Certificate.
-- IBM Deep Learning with PyTorch, Keras and TensorFlow Professional Certificate.
-- Advanced English — CEFR C1 (EF SET).
-Professional interests
-Backend Engineering · Software Architecture · Distributed Systems · Cloud-Native Applications · Platform Engineering · Financial Systems · Applied AI
-
-Based in João Pessoa, Brazil. Interested in opportunities as a Senior Software Engineer, Senior Backend Engineer, or Backend Java Developer.
+- **Postgraduate Program in Cloud-Native Architecture and Platform Engineering** — Universidade Anhembi Morumbi *(in progress)*
+- **B.S. in Information Systems** — Universidade Estácio de Sá (2019)
+- **AWS Certified Developer – Associate** — May 2023 – May 2026
+- **IBM:** RAG and Agentic AI; Deep Learning with PyTorch, Keras and TensorFlow
+- **English:** C1 (EF SET)
